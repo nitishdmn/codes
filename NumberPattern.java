@@ -1,4 +1,4 @@
-package qwer;
+
 import java.util.Scanner;
 /*Print the following pattern
 4 4 4 4 4 4 4 
