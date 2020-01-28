@@ -1,4 +1,4 @@
-package qwer;
+
 import java.util.*;
 public class ArrowPattern {
 	/*Print the following pattern for the given number of rows.
